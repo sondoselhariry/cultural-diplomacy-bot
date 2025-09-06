@@ -1,0 +1,273 @@
+examples= [
+  {
+    "countries": [
+      "Egypt",
+      "Syria"],
+    "region": "levant",
+    "tone": "Formal",
+    "theme": "Historical Solidarity in Media (1967)",
+    "dialect_rule": {
+      "Egyptian": 4,
+      "Syrian": 3
+    },
+    "opening_quote": "هل كنت تعلم إن أول صوت مصري طلع بعد الهجوم كان من دمشق؟",
+    "background": "On the morning of June 5th, 1967, the Egyptian national radio station fell silent — bombed during the first wave of the Six-Day War. The airwaves were empty, and the country held its breath in fear. But that same afternoon, a Syrian announcer’s voice cut through the silence with five unforgettable words:\n\n\"من دمشق، هنا القاهرة\"\n\nThe phrase wasn’t just symbolic. It marked the beginning of a joint broadcast effort between Radio Damascus and Egyptian exiled broadcasters. For the next three weeks, programs like “Sawt al-Arab” and “Min al-Qahira” aired from Syrian studios, allowing Egypt to speak to its people — and the Arab world — once more.",
+    "shared_moments": [
+      "اللي حصل وقتها كان أكتر من تضامن... كان إنقاذ للكرامة العربية",
+      "قالولي: لما سمعنا صوت القاهرة طالع من الشام... عيّطنا",
+      "كل بيت فتح الراديو وقال: نحنا معكن، صوتكن ما رح يختفي",
+      "كأن الشام فتحتلنا بيتها، وقالت لنا: ادخلوا آمنين"
+    ],
+    "emotional_echo": "And when Egyptian broadcasters finally returned home, they took with them a deep sense of kinship that shaped decades of media cooperation — from children’s radio shows to joint Ramadan programming in the 70s and 80s.",
+    "closing_quotes": [
+      "من يومها، فهمنا إن الإعلام مش بس أخبار — دا كمان وطن بين الموجات",
+      "الصوت العربي ما بينكسرش طول ما في حد بيرد وراه",
+      "وإحنا طول عمرنا جنب اللي بيرد النداء"
+    ],
+    "closing_poetic_phrase": "حتى لما الميكروفونات اتكسرت، سوريا فتحتلها موجة من كرامة.\nEven when microphones broke, Syria offered Egypt a frequency made of dignity."
+  },
+  {
+    "countries": [
+      "Egypt",
+      "Morocco"],
+    "region": "maghreb",
+    "tone": "Academic",
+    "theme": "Linguistic Evolution through Literary & Culinary Exchange",
+     "dialect_rule": {
+      "Egyptian": 4,
+      "Moroccan": 3
+    },
+    "opening_quote": "إوا ماشيتيش لمصر وتعلمتي غير الملوخية؟\n“So you went to Egypt and all you brought back was molokhia?”",
+    "background": "It started in the late 60s, when Moroccan poets, scholars, and culinary writers began frequenting Cairo’s cultural hubs — from book fairs to literary salons. The 1969 Cairo International Book Fair welcomed a Moroccan delegation whose spoken Darija puzzled even the sharpest Egyptian minds.",
+    "shared_moments": [
+      "أول مرة سمعتهم يقولوا: ‘شحال هادي’، افتكرتهم بيغنوا مش بيتكلموا!",
+      "Translation: \"The first time I heard them say ‘sh7al hadi’ (how long has it been), I thought they were singing, not talking!\"",
+      "Cairo’s intellectuals were fascinated. They published translated Moroccan poetry in Rose al-Yūsuf and Al-Hilal magazines.",
+      "Meanwhile, back in Rabat and Fez, young writers borrowed Egyptian colloquialisms they’d picked up from cinema and university halls.",
+      "أنا كاتب مقال كامل في المغرب عن الفرق بين يا سلام ويا سلام عليك",
+      "Translation: “I once wrote an entire article in Morocco about the difference between ‘ya salam’ and ‘ya salam 3aleik.’”",
+      "Egyptian molokhia took on saffron and preserved lemon in Marrakesh kitchens.",
+      "Moroccan harira was served in Maadi iftar tents during the 70s, especially in circles where Moroccan students were hosted by Egyptian families.",
+      "فاكر كويس واحد مغربي قال لي: ‘إحنا نطبخو الحريرة، وإنتو تطبخوا الحكايات’",
+      "Translation: “I remember a Moroccan friend telling me: ‘We cook harira, you cook stories.’”"
+    ],
+    "emotional_echo": "",
+     "closing_quotes": [],
+    "closing_poetic_phrase": "من قصائد فاس لصحون شبرا، الحروف والتوابل مشوا سوا.\nFrom Fes’ poems to Shoubra’s plates — the letters and the spices traveled together."
+  },
+
+  {
+    "countries": [
+      "Egypt",
+      "Sudan"],
+    "region": "others",
+    "tone": "Warm & Personal",
+    "theme": "Marriage Traditions & Cross-Border Families",
+     "dialect_rule": {
+      "Egyptian": 4,
+      "Sudanese": 3
+    },
+    
+      "opening_quote": "من أول زغرودة في أم درمان لآخر دبكة في أسوان — الفرح بيجمعنا بطريقته الخاصة.",
+      "background": "For centuries, the Nile wasn’t a border — it was a bridge. In the early 20th century, long before modern politics carved lines between nations, communities from northern Sudan and southern Egypt moved freely across land and water.",
+      "shared_moments": [
+        "Egyptians in Aswan spoke of family in Wadi Halfa, and Sudanese merchants in Cairo knew the alleyways of Khan El-Khalili by heart.",
+        "But it was in weddings that the bond truly came alive.",
+        "Sudanese families who settled in Egypt brought with them the جرتق ceremony, where the bride is adorned in red and gold — and Egyptian families embraced it, often adding their own touch with الحناء nights and zaghareet.",
+        "Mixed marriages became common in the 1950s and 60s, especially in university cities like Alexandria, where cultural exchange was part of daily life.",
+        "By the 1970s, there were entire family trees that spanned Khartoum to Cairo. Children grew up bilingual, dancing to حُمَيد and أم كلثوم, eating عصيدة and مولوخية at the same table."
+      ],
+      "emotional_echo": [
+        "الستات كانوا يقولوا: فرح من غير كركديه وسيرة؟ ما ينفعش!",
+        "في بيت واحد، تسمع الأم تقول: يا بت! والجد يرد من ورا: شدي حيلك يا حَبوبة!",
+        "في العيد، كانت الركوة تغلي على النار، وسيرة الهلالية شغالة في الخلفية"
+      ],
+      "closing_quotes": [],
+      "closing_poetic_phrase": "القلوب اتجمعت قبل الجواز، والفرحة بقت حكاية بين شعبين. The hearts met before the marriage — and joy became a shared story."
+    
+  },
+  {
+    "countries": [
+      "Egypt",
+      "UAE"],
+     "region": "gulf",
+    "tone": "Academic",
+    "theme": "Educational & Cultural Foundations",
+    "dialect_rule": {
+      "Egyptian": 4,
+      "Gulf": 3
+    },
+    
+      "opening_quote": "🏛 من أول درس في المدرسة لآخر مسلسل في رمضان — مصر والإمارات دايمًا جنب بعض.",
+      "background": "Since the founding of the UAE in 1971, Egyptian professionals played a key role in laying the groundwork for national development. Teachers, engineers, broadcasters, and legal advisors came in droves — not as foreign experts, but as regional partners.",
+      "shared_moments": [
+        "كأننا بنبني سوا من أول طوبة — Emirati historian, Sultan Al-Amimi",
+        "Throughout the 1970s and 80s, Egyptian curricula and pedagogy became embedded in Emirati classrooms. Many Emiratis still recall childhood lessons taught in Egyptian Arabic — phrases like: 'أنا رايح المدرسة' instead of 'رايح للمدرسة'",
+        "On the media front, Egyptian cinema and music served as cultural anchors. The voice of Umm Kulthum, the satire of Adel Imam, and Ramadan television dramas filled Emirati homes.",
+        "كنا نحط القناة المصرية ونقول: متى يبتدي المسلسل؟ — Emirati teacher",
+        "Today, Egyptian-led media continues to shape Ramadan viewership across the Emirates."
+      ],
+      "emotional_echo": [
+        "بنحب تمثيلهم، وضحكتهم، وطريقتهم اللي فيها خفة دم من نوع ثاني"
+      ],
+      "closing_quotes": [],
+      "closing_poetic_phrase": "على قد ما المسافات بتبعد، الروابط دي عمرها ما بتفك. No matter how far the distance stretches, these ties never unravel."
+   
+  },
+
+  {
+  "countries": ["Egypt", "Jordan"],
+  "region": "levant",
+  "tone": "Formal",
+  "theme": "Linguistic Resonance in Popular Media & Everyday Speech",
+  "dialect_rule": {
+    "Egyptian": 4,
+    "Jordanian": 3
+  },
+  "opening_quote": "🎙 \"اللغة مش بس وسيلة للتواصل، دي كمان جسر بيجمعنا مهما بعدت المسافات.\"",
+  "background": "Language is not merely a vehicle for communication — it is a cultural bridge, connecting people even when geography keeps them apart. For decades, Egyptian cinema, radio, and theater have left traces in the Jordanian lexicon. From the golden era of Abdel Halim and Faten Hamama to modern-day Ramadan serials, Jordanians have often found themselves speaking in Egyptian phrases — affectionately and fluently.",
+  "shared_moments": [
+    "إنت بتتكلم مصري ولا شو؟",
+    "بمزح معك، لا تزعل",
+    "شو القصة؟",
+    "ماشي يا باشا، كله تمام؟",
+    "إنت جبت آخره!",
+    "كيفك اليوم؟ تمام؟",
+    "طب خُد بالك من نفسك",
+    "والنبي ما تتأخرش"
+  ],
+  "emotional_echo": "These exchanges aren’t simply about imitation. They’re the result of decades of university exchanges, diplomatic cooperation, and cross-border media circulation — proof that our phrases carry more than words: they carry warmth, memory, and mutual respect.",
+  "closing_quotes": [
+    "من أول \"أيوه كده\" لحد \"يلا نروح\"، لهجتنا دايمًا فيها صدى لبعض",
+    "الكلمة الطيبة بتلاقي صداها حتى على بعد حدود",
+    "السينما علمتنا نحكي، والقلوب خلتنا نسمع بعض"
+  ],
+  "closing_poetic_phrase": "From Amman cafés to Cairo corners, our accents flirt, echo, and intertwine — like a shared sentence passed between two old friends."
+},
+ {
+  "countries": ["Egypt", "Lebanon"],
+  "region": "levant",
+  "tone": "Cheeky & Fun",
+  "theme": "Art as Resistance & Cross-Pollination in Arab Cinema",
+  "dialect_rule": {
+    "Egyptian": 4,
+    "Lebanese": 3
+  },
+  "opening_quote": "🎬 “لما الفن في بيروت يتكمّم، كانت القاهرة تفتحلّه ستارة.”",
+  "background": "When censorship tightened its grip on Beirut during the civil war, many Lebanese artists didn’t go quiet — they went south. Cairo's studios, already bustling with legends, opened their arms to a new wave of Lebanese creativity. In return, Egyptian directors like Youssef Chahine found Beirut a place for louder, riskier ideas — like in 'Awdet Al Ibn Al Dal' (1984), part-funded and praised in Lebanese circles for its unapologetic politics.",
+  "shared_moments": [
+    "فاكر لما صباح سابت بيروت وجت مصر؟ مش بس غنّت، كانت نجمة كل مسرح وكل كاميرا",
+    "يا خيي، مش كل يوم بتشوف مخرج مصري بيكلم عن الهوية كأنها ساحة معركة",
+    "حفلاته في كازينو لبنان؟ كانت كأن الأهرامات اتنقلت على البحر!",
+    "المصري يقول: ‘دي ليلى مراد ولا صباح؟’ واللبناني يرد: ‘ولا يهمك، الاتنين في القلب’"
+  ],
+  "emotional_echo": "The artistic flirtation wasn’t just cute — it was collaborative and subversive. Screenwriters, stage designers, poets — they crossed over like it was one big open rehearsal room for the Arab world.",
+  "closing_quotes": [
+    "حتى في العِزّ والضيق، الفن كان جواز سفر بدون حدود",
+    "الصوت اللي اتمنع في بيروت، اتغنّى بحرية في الزمالك",
+    "من منصات مصر لصالات بيروت، المسرح دايمًا لينا إحنا التلاتة: القلب، اللهجة، والكاميرا"
+  ],
+  "closing_poetic_phrase": "🎭 Art was our borderless passport — valid in every accent, stamped with every heartbreak."
+},
+
+  {
+    "countries": [
+      "Egypt",
+      "Saudi Arabia"],
+     "region": "gulf",
+    "tone": "Formal",
+    "theme": "Historical Solidarity (Political Unity)",
+    "dialect_rule": {
+      "Egyptian": 4,
+      "Saudi": 3
+    },
+    "opening_quote": "فاكر يوم لما الخليج حط نقطة في آخر السطر... وبدأت مصر تكتب الجملة الجاية؟",
+    "background": "In October 1973, Egypt launched its war to reclaim Sinai — a pivotal moment in modern Arab history. But in this battle, Egypt wasn’t standing alone. Just days into the war, Saudi Arabia led a coordinated oil embargo against Western nations supporting Israel. It wasn’t just economic pressure — it was political thunder.\n\nKing Faisal and President Sadat were in constant contact — hourly calls, military briefings, and synchronized strategies. One Egyptian diplomat famously recalled:\n\n\"كأننا بنخوض معركة واحدة، بس بأسلحة مختلفة\"\n(\"It was as if we were fighting one battle — with different weapons.\")",
+    "shared_moments": [
+      "يا مصر، إحنا سندك يوم ما الكل تخلى",
+      "النفط سلاح، وصوت الخليج ما كانش أقل من صوت المدافع",
+      "وقفنا مع مصر مو بس بحب... وقفنا بشرف",
+      "السعودية يومها رفعت راسنا، وحطت كرامتنا فوق راسها"
+    ],
+    "emotional_echo": "Across the Arab world, this unity reverberated. Years later, older Emiratis would still say those words with pride — and Egyptians, never forgetting, responded with quiet dignity.",
+    "closing_quotes": [],
+    "closing_poetic_phrase": "لما البترول اتكلم، صوت العرب وصل لأبعد من كل الميكروفونات.\nWhen oil spoke, the Arab voice traveled farther than any microphone."
+  },
+  {
+    "countries": [
+      "Egypt",
+      "Iraq"],
+    "region": "others",
+    "tone": "Academic",
+    "theme": "Political Sovereignty & Alignment",
+    "dialect_rule": {
+      "Egyptian": 4,
+      "Iraqi": 3
+    },
+    "opening_quote": "هل كنت تعرف إن مصر قالت ‘لأ’ في زمن الكل كان بيقول ‘نعم’؟",
+    "background": "In the heat of the Cold War, 1955 saw the creation of the Baghdad Pact — a Western-backed military alliance that aimed to curtail Soviet influence in the Middle East. Iraq signed on, becoming a founding member. But Egypt, under Gamal Abdel Nasser, refused — loudly, defiantly. To Nasser, it was more than a treaty. It was a leash.\n\n\"الاستقلال مش شعارات، الاستقلال قرار\"\n\nEgyptian newspapers denounced the pact as a new colonial grip. In Baghdad, young poets like Buland al-Haidari slipped veiled resistance into their verses, even as their government stood with the West.",
+    "shared_moments": [
+      "إحنا وقعنا الورقة، بس قلوبنا مع القاهرة",
+      "مصر بتقول لأ... وإحنا بنرد: إحنا معاكم",
+      "التاريخ هيسأل كل واحد فينا: كنتوا فين؟",
+      "اللي بيقف قدام الغرب كده... يستاهل نغني له"
+    ],
+    "emotional_echo": "By 1959, after a wave of uprisings and a changing tide, Iraq withdrew from the pact. Analysts across the Arab world credited Nasser’s stance with inspiring that break.",
+    "closing_quotes": [],
+    "closing_poetic_phrase": "لما مصر اختارت طريقها، كتير من العواصم لقوا نفسهم ماشيين وراها.\nWhen Egypt chose its path, many capitals followed in step."
+  },
+{
+  "countries": [
+      "Egypt",
+      "Syria"],
+  "region": "levant",
+  "tone": "Warm & Personal",
+  "theme": "Media, Messaging, and Soft Power",
+  "dialect_rule": {
+    "Egyptian": 4,
+    "Syrian": 3
+  },
+  "opening_quote": "زمان، لما مصر كانت تبعت فنان، كانت تبعت فكرة معاه.",
+  "background": "Back in the 50s and 60s, Egypt didn’t just export music — it exported meaning.\n\nIn the heart of the Arab Cold War, Sawt al-Arab (Voice of the Arabs) — broadcasting from Cairo — wasn’t just a radio station. It was a movement. While military alliances formed and broke apart, Egypt turned to lyrics, voices, and carefully chosen words to shape regional hearts.\n\n\"صوت العرب؟ دي كانت إذاعة بتكلم الشعوب مش الحكومات\"\n\nIn Damascus, teenagers stayed up late to catch Abdel Halim's concerts, and older listeners waited for Ahmed Said's bold commentaries. In 1956, during the Suez Crisis, one Syrian broadcaster recalled:\n\n\"كنا نوقف البث، ونستنى كلمة مصر، ونكمل على نغمتها\"",
+  "shared_moments": [
+    "It wasn’t unusual for poets like Salah Jahin and Nizar Qabbani to reference each other — not directly, but in emotional code passed through the airwaves.",
+    "Even the melodies carried messages: \"يا جمال يا حبيب الملايين\" played just as loudly in Homs as it did in Giza.",
+    "And when Egyptian drama and satire found its way into Syrian cafés, Damascus residents would joke:\n\"إذا ما فهمت السياسة، شغل إذاعة القاهرة... بتفهمك من غير ما توجع راسك\""
+  ],
+  "emotional_echo": "In return, Egypt embraced Syrian artistic voices with reverence — the Rahbani Brothers were household names, not guests. And their influence fed back into Egyptian artistry, especially in musical theater.",
+  "closing_quotes": [
+    "كانوا يقولوا: المصريين بيحكوا عن العرب... وبيحكوا باسمنا كمان"
+  ],
+  "closing_poetic_phrase": "وإيد مصر ما تمددتش بس بالسياسة... تمددت بالمعنى.\nEgypt didn’t just extend her hand in politics — she extended it in meaning."
+},
+{
+  "countries": [
+    "Egypt",
+    "Algeria"
+  ],
+  "region": "maghreb",
+  "tone": "Cheeky and Fun",
+  "theme": "Cultural Resistance & Hidden Artistic Solidarity",
+  "dialect_rule": {
+    "Egyptian": 4,
+    "Algerian": 3
+  },
+  "opening_quote": "المستعمر حاول يخنق صوتهم؟ مصر فتحتلهم الميكروفون وقالت: غني يا جزاير!",
+  "background": "In the late 1950s, when French rule in Algeria was at its harshest, Egyptian cinemas weren’t just showing local films — they were secretly screening anti-colonial Algerian documentaries, smuggled in on scratched reels. Egyptian singers like Mohamed Abdel Wahab and Umm Kulthum raised funds at concerts for Algerian resistance, while magazines like Rose al-Yūsuf ran illustrated covers showing Algerian women tearing off veils — not of modesty, but of censorship. During one theatre night in downtown Cairo, a young Egyptian yelled out:\n\n\"إحنا مش بنتفرج... إحنا بنرد التحية بالتحية!\"\n\nMeanwhile, in Constantine, an Algerian student whispered to his friend after reading a banned Egyptian poem in a café:\n\n\"هاذي مش قصيدة، هاذي طبطبة من بعيد.\"\n\nCairene bookstores began slipping translated Algerian resistance poetry into the backs of popular novels, cheeky little rebellions between romantic plotlines. A bookseller in Sayeda Zeinab was once overheard saying:\n\n\"اللي مش بيقاوم بالقلم، هيقاوم بإيه؟ بفطير مشلتت؟\"\n\nOne Algerian painter exhibiting in Alexandria in 1962 remarked:\n\n\"كي شفت لوحاتهم جنب لوحاتنا، حسّيت روحي مش وحدي.\"\n\nAnd in one particularly spicy moment at a Cairo radio station, an intern slipped a banned Algerian folk song into the airwaves — only to grin when the phone rang and the manager said:\n\n\"سيبها تكمل... هي دي الحرية اللي بنحبها.\"",
+  "shared_moments": [
+    "إحنا مش بنتفرج... إحنا بنرد التحية بالتحية!",
+    "هاذي مش قصيدة، هاذي طبطبة من بعيد.",
+    "اللي مش بيقاوم بالقلم، هيقاوم بإيه؟ بفطير مشلتت؟",
+    "كي شفت لوحاتهم جنب لوحاتنا، حسّيت روحي مش وحدي.",
+    "سيبها تكمل... هي دي الحرية اللي بنحبها."
+  ],
+  "emotional_echo": "Cairene bookstores began slipping translated Algerian resistance poetry into the backs of popular novels, cheeky little rebellions between romantic plotlines. Joint exhibitions, underground prints, and rebellious songs weren’t just art — they were echoes of a shared will to speak, loudly and beautifully.",
+  "closing_quotes": [
+    "فيه مقاومة بتتكتب، وفيه مقاومة بتتغنّى.",
+    "اللي بيغني للحرية، دايماً هيلقى حد يرد عليه.",
+    "الجزاير كتبت، ومصر قرّت — وبقينا صوتين لنفس القضية."
+  ],
+  "closing_poetic_phrase": "من باب الشعر لباب المقاومة، مصر والجزاير ما كنوش بيتكلموا بس... كانوا بيغنّوا لبعض فوش الاحتلال."
+}
+
+]
